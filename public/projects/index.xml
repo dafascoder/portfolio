@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Shirwa Egal</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Shirwa Egal</description>
+    <generator>Hugo -- 0.134.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Oct 2024 16:03:47 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advice App</title>
+      <link>http://localhost:1313/projects/advice/</link>
+      <pubDate>Sun, 06 Oct 2024 16:03:47 -0400</pubDate>
+      <guid>http://localhost:1313/projects/advice/</guid>
+      <description>&lt;p&gt;Work on this project that involved creating a mobile app that allows users to connect and chat in real-time. The primary focus of the application was allowing an alternative method for networking.&lt;/p&gt;
+&lt;p&gt;🔗 &lt;strong&gt;Link&lt;/strong&gt;: &lt;a href=&#34;https://advice.care&#34;&gt;Visit the Advice App 🌐&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Technologies&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;⚛️ React Native&lt;/li&gt;
+&lt;li&gt;📡 Firebase Realtime Database&lt;/li&gt;
+&lt;li&gt;🔥 Firebase&lt;/li&gt;
+&lt;li&gt;🗄️ Firebase Storage&lt;/li&gt;
+&lt;li&gt;📱 Expo&lt;/li&gt;
+&lt;li&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.typescriptlang.org/icons/icon-48x48.png&#34; alt=&#34;TypeScript Logo&#34;  /&gt;
+ TypeScript&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/advice-1.png&#34;
+         alt=&#34;App Screenshot 1&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/app-screenshot2.png&#34;
+         alt=&#34;App Screenshot 2&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/app-screenshot3.png&#34;
+         alt=&#34;App Screenshot 3&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/app-screenshot4.png&#34;
+         alt=&#34;App Screenshot 4&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+  </channel>
+</rss>
