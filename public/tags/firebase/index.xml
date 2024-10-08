@@ -9,17 +9,11 @@
     <lastBuildDate>Sun, 06 Oct 2024 16:03:47 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/firebase/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project 1</title>
+      <title>Advice App</title>
       <link>http://localhost:1313/projects/advice/</link>
       <pubDate>Sun, 06 Oct 2024 16:03:47 -0400</pubDate>
       <guid>http://localhost:1313/projects/advice/</guid>
-      <description>&lt;h3 id=&#34;advice-app&#34;&gt;Advice App&lt;/h3&gt;
-&lt;p&gt;Work on this project that involved creating a mobile app that allows users to connect and chat in real-time. The primary focus of the application was allowing an alternative method for networking.&lt;/p&gt;
-&lt;figure class=&#34;mx-auto d-block&#34;&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/advice-logo.png&#34;
-         alt=&#34;Advice App Logo&#34; width=&#34;200&#34;/&gt; 
-&lt;/figure&gt;
-
+      <description>&lt;p&gt;Work on this project that involved creating a mobile app that allows users to connect and chat in real-time. The primary focus of the application was allowing an alternative method for networking.&lt;/p&gt;
 &lt;p&gt;🔗 &lt;strong&gt;Link&lt;/strong&gt;: &lt;a href=&#34;https://advice.care&#34;&gt;Visit the Advice App 🌐&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Technologies&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
@@ -31,7 +25,7 @@
 &lt;li&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.typescriptlang.org/icons/icon-48x48.png&#34; alt=&#34;TypeScript Logo&#34;  /&gt;
  TypeScript&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;
+&lt;h2 id=&#34;app&#34;&gt;App&lt;/h2&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;

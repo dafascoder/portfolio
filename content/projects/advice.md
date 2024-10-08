@@ -21,10 +21,9 @@ Work on this project that involved creating a mobile app that allows users to co
 - 🔥 Firebase
 - 🗄️ Firebase Storage
 - 📱 Expo
-- ![TypeScript Logo](https://www.typescriptlang.org/icons/icon-48x48.png) TypeScript
+- 📝 TypeScript
 
-## Screenshots
+## App Screenshots
 
-| {{< figure src="/images/advice-1.png" alt="App Screenshot 1" >}}        | {{< figure src="/images/app-screenshot2.png" alt="App Screenshot 2" >}} |
-| ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| {{< figure src="/images/app-screenshot3.png" alt="App Screenshot 3" >}} | {{< figure src="/images/app-screenshot4.png" alt="App Screenshot 4" >}} |
+| {{< figure src="/images/advice-1.png" alt="App Screenshot 1" width="300" >}} | {{< figure src="/images/advice-2.png" alt="App Screenshot 2" width="300" >}} |
+| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
