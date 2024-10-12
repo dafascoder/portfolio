@@ -44,5 +44,41 @@
   &lt;/tbody&gt;
 &lt;/table&gt;</description>
     </item>
+    <item>
+      <title>Shareables</title>
+      <link>http://localhost:1313/projects/shareables/</link>
+      <pubDate>Sun, 06 Oct 2024 16:03:47 -0400</pubDate>
+      <guid>http://localhost:1313/projects/shareables/</guid>
+      <description>&lt;p&gt;Shareables is mobile socail networkking app where users can post,share and rate their favorite restaurants, bar and cafes. The primary focus of the application was allowing users to share their favorite places and rate them.&lt;/p&gt;
+&lt;p&gt;Link: &lt;a href=&#34;https://shareablesapp.com&#34;&gt;Visit the Shareables App 🌐&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;technologies&#34;&gt;Technologies&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;⚛️ React Native&lt;/li&gt;
+&lt;li&gt;📡 Firebase Firestore&lt;/li&gt;
+&lt;li&gt;🔥 Firebase&lt;/li&gt;
+&lt;li&gt;🗄️ Firebase Storage&lt;/li&gt;
+&lt;li&gt;📱 Expo&lt;/li&gt;
+&lt;li&gt;📝 TypeScript&lt;/li&gt;
+&lt;li&gt;🗺️ Mapbox&lt;/li&gt;
+&lt;/ol&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/shareable-1.png&#34;
+         alt=&#34;App Screenshot 1&#34; width=&#34;300&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/shareable-2.gif&#34;
+         alt=&#34;App Screenshot 2&#34; width=&#34;300&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
   </channel>
 </rss>
